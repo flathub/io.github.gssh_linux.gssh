@@ -31,7 +31,7 @@ modules:
         url: https://github.com/gssh-linux/gssh/releases/download/1.3.4/gssh-1.0.0.AppImage
         size: 105759254
         sha256: 15760223c4d9004cba27e4ad008ac8d3ac1db31d7c3280d1aecbe18054ac11e6
-        filename: gssh-1.0.0.appimage
+        filename: gssh-1.0.0.AppImage
         x-checker-data:
           type: electron-updater
 
